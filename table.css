@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+tt{
+	font-size:0.7em;}
+table{
+	border:1px #666 solid;}
+table .head{
+	background-color:#666;
+	color:#CCC;
+	font-size:1.2em;
+	font-style:oblique;
+	font-weight:500;
+	border-bottom:2px #000 solid;
+	}
+table .sort{
+	background-color:#666;}
+table .class{
+	border-bottom:1px #333 dotted;
+	border-right:1px #666 solid;}
+.new{
+	color:#930;}
+.close{
+	border:1px #666 solid;
+	float:right;
+	text-decoration:none;}
+.nowitem{
+	color:#FFF;
+	background-color:#06F;
+	font-weight:700;}
